@@ -1,3 +1,11 @@
+# react-native-ofetch-demo
+
+This is a demo project to show how to use ofetch in a React Native project.
+
+Currently there are issues with the ofetch package and React Native.  This project is a demo of the issues.
+
+# React Native Readme
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
